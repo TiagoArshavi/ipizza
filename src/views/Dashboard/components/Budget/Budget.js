@@ -64,7 +64,7 @@ const Budget = props => {
             >
               BUDGET
             </Typography>
-            <Typography variant="h3">$24,000</Typography>
+            <Typography variant="h3">$ 56,00</Typography>
           </Grid>
           <Grid item>
             <Avatar className={classes.avatar}>
